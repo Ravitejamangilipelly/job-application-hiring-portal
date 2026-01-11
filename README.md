@@ -27,20 +27,6 @@ Express.js – Web framework for building APIs
 
 PostgreSQL – Relational database
 
-pg – PostgreSQL client for Node.js
-
-bcrypt – Password hashing
-
-jsonwebtoken (JWT) – Authentication
-
-express-validator – Request validation
-
-Other Tools:
-
-nodemon – Auto-reload server during development
-
-dotenv – Environment variable management
-
 ## Features
 JWT authentication
 
