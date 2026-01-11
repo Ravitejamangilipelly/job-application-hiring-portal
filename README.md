@@ -9,8 +9,11 @@ Candidate / User: Browse jobs, apply, save jobs, view applications & favourites.
 ## Tech Stack Used
 ## Frontend
 React.js – UI library for building interactive user interfaces
+
 React Router v6 – Client-side routing
+
 Axios – HTTP client to communicate with backend APIs
+
 CSS – Styling
 
 ## Backend
